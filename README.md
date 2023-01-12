@@ -20,6 +20,7 @@ Inside head tag
 <meta name="description" content="Free Web tutorials for HTML and CSS">
 ```
 *HTML Text Formatting*
+```
 <b> - Bold text
 <strong> - Important text
 <i> - Italic text
@@ -30,3 +31,4 @@ Inside head tag
 <ins> - Inserted text
 <sub> - Subscript text
 <sup> - Superscript text
+```
