@@ -32,3 +32,22 @@ Inside head tag
 <sub> - Subscript text
 <sup> - Superscript text
 ```
+*HTML border*
+Html border can have different width,color,style,radius:
+```
+<h2 style="border:green; border-width:8px; border-style:dashed">
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
